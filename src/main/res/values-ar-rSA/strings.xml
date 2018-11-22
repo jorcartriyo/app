@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOTORMOT</string>
+    <string name="datos_cargados">"                                      جميع"</string>
+    <string name="todo">جميع</string>
+    <string name="precio">السعر</string>
+    <string name="reservar">حجز</string>
+    <string name="telefono">هاتف</string>
+    <string name="nombre">اسم</string>
+    <string name="poblacion">سكان</string>
+    <string name="marca">علامة</string>
+    <string name="modelo">نموذج</string>
+    <string name="matricula">تسجيل</string>
+    <string name="volver">أعود</string>
+    <string name="solicitar_informacion">طلب المعلومات</string>
+    <string name="acceder_a_db">الوصول إلى قاعدة البيانات</string>
+    <string name="principal">ناظر</string>
+    <string name="admira_nuestras_motos_en_tiempo_real">معجب دراجاتنا في الوقت الحقيقي</string>
+    <string name="motormot">MOTORMOT</string>
+    <string name="navigation_drawer_open">افتح درج التنقل</string>
+    <string name="navigation_drawer_close">إغلاق درج التنقل</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="prompt_email">البريد الإلكتروني</string>
+    <string name="title_activity_login">تسجيل الدخول</string>
+    <string name="prompt_password">كلمة المرور)</string>
+    <string name="acceso">وصول</string>
+    <string name="zona_de_empleados">منطقة الموظف</string>
+    <string name="action_sign_in">تسجيل الدخول أو التسجيل</string>
+    <string name="action_sign_in_short">تسجيل الدخول</string>
+    <string name="item">بند</string>
+    <string name="error_invalid_email">عنوان البريد الإلكتروني هذا غير صالح</string>
+    <string name="error_invalid_password">كلمة المرور هذه قصيرة جدًا</string>
+    <string name="error_incorrect_password">المستخدم الذي تم إدخاله ليس لديه حق الوصول إلى هذه المنطقة</string>
+    <string name="error_field_required">هذه الخانة مطلوبه</string>
+    <string name="permission_rationale">هناك حاجة إلى أذونات جهات الاتصال لتقديم الإكمالات عبر البريد الإلكتروني.</string>
+    <string name="logo">شعار</string>
+    <string name="cargar_datos">تحفظات</string>
+    <string name="cliente">زبون</string>
+</resources>

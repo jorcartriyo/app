@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MOTORMOT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="motormot">MOTORMOT</string>
+    <string name="admira_nuestras_motos_en_tiempo_real">Admire our bikes in real time</string>
+    <string name="principal">Main</string>
+    <string name="acceder_a_db">Access DB</string>
+    <string name="solicitar_informacion">Ask for information</string>
+    <string name="volver">Return</string>
+    <string name="matricula">Enrollment</string>
+    <string name="modelo">Model</string>
+    <string name="marca">Mark</string>
+    <string name="poblacion">Town</string>
+    <string name="nombre">Name</string>
+    <string name="telefono">Telephone</string>
+    <string name="todo">ALL</string>
+    <string name="precio">Price</string>
+    <string name="reservar">Book</string>
+    <string name="datos_cargados">Successfully loaded data, soon an operator of ours will contact you</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">"Password "</string>
+    <string name="action_sign_in">Acces to Private zone</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This user dont exit</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">The user entered does not have access to this area</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="item">Item</string>
+    <string name="zona_de_empleados">employee area</string>
+    <string name="acceso">Acceso</string>
+    <string name="logo">logo</string>
+    <string name="cargar_datos">Reservations</string>
+    <string name="cliente">Client</string>
+
+
+</resources>

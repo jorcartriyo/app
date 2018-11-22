@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOTORMOT</string>
+    <string name="reservar">儲備</string>
+    <string name="precio">價格</string>
+    <string name="datos_cargados">加載數據</string>
+    <string name="todo">所有</string>
+    <string name="telefono">電話</string>
+    <string name="nombre">名</string>
+    <string name="poblacion">人口</string>
+    <string name="marca">標記</string>
+    <string name="modelo">模型</string>
+    <string name="matricula">註冊</string>
+    <string name="volver">回來</string>
+    <string name="solicitar_informacion">請求信息</string>
+    <string name="acceder_a_db">訪問數據庫</string>
+    <string name="principal">校長</string>
+    <string name="admira_nuestras_motos_en_tiempo_real">實時欣賞我們的自行車</string>
+    <string name="motormot">MOTORMOT</string>
+    <string name="navigation_drawer_open">打開導航抽屜</string>
+    <string name="navigation_drawer_close">關閉導航抽屜</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">導航標題</string>
+    <string name="action_settings">設置</string>
+    <string name="prompt_email">電子郵件</string>
+    <string name="title_activity_login">登錄</string>
+    <string name="prompt_password">密碼</string>
+    <string name="acceso">訪問</string>
+    <string name="zona_de_empleados">員工區</string>
+    <string name="action_sign_in">登錄或註冊</string>
+    <string name="action_sign_in_short">登錄</string>
+    <string name="item">項目</string>
+    <string name="error_invalid_email">此電子郵件地址無效</string>
+    <string name="error_invalid_password">此密碼太短</string>
+    <string name="error_incorrect_password">輸入的用戶無權訪問此區域</string>
+    <string name="error_field_required">這是必填欄</string>
+    <string name="permission_rationale">提供電子郵件完成需要聯繫人權限。</string>
+    <string name="logo">徽標</string>
+    <string name="cargar_datos">預訂</string>
+    <string name="cliente">顧客</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOTORMOT</string>
+    <string name="reservar">Reservar</string>
+    <string name="precio">Precio</string>
+    <string name="datos_cargados">Datos cargados con exito, en breve un operario nuestro se pondrá en contacto con usted</string>
+    <string name="todo">TODO</string>
+    <string name="telefono">Telefono</string>
+    <string name="nombre">Nombre</string>
+    <string name="poblacion">Poblacion</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="matricula">Matricula</string>
+    <string name="volver">Volver</string>
+    <string name="solicitar_informacion">Solicitar informacion</string>
+    <string name="acceder_a_db">Ver nuestro catálogo</string>
+    <string name="principal">Principal</string>
+    <string name="admira_nuestras_motos_en_tiempo_real">Admira nuestras motos en tiempo real</string>
+    <string name="motormot">MOTORMOT</string>
+    <string name="navigation_drawer_open">Abre la capa de navegación</string>
+    <string name="navigation_drawer_close">Cierra la capa de navegación</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Cabecera de navegación</string>
+    <string name="action_settings">Herramientas</string>
+    <string name="prompt_email">Correo electronico</string>
+    <string name="title_activity_login">Iniciar sesión</string>
+    <string name="prompt_password">"Contraseña "</string>
+    <string name="acceso">Acceso</string>
+    <string name="zona_de_empleados">Zona de Empleados</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="action_sign_in">Acceso a zona de empleados</string>
+    <string name="item">artículo</string>
+    <string name="error_invalid_email">Esta dirección de correo electrónico no es válida</string>
+    <string name="error_invalid_password">Esta contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">El usuario introducido no tiene acceso a esta zona</string>
+    <string name="error_field_required">este campo es requerido</string>
+    <string name="permission_rationale">Se requieren permisos de contactos para proporcionar autocompletado de correo electrónico.</string>
+    <string name="logo">Logo</string>
+    <string name="cargar_datos">Reservas</string>
+    <string name="cliente">Cliente</string>
+</resources>
